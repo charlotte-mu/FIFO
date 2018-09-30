@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA/test_FIFO/test_fifo/simulation/modelsim
+vfifo_module
+Z1 !s110 1537956638
+!i10b 1
+!s100 UdeDcdWoGX3?g3dkB06Na1
+I0?Si_AA4iR?37GP<IZa_61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1537354795
+8D:/FPGA/test_FIFO/test_fifo/fifo_module.v
+FD:/FPGA/test_FIFO/test_fifo/fifo_module.v
+L0 40
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1537956638.000000
+!s107 D:/FPGA/test_FIFO/test_fifo/fifo_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/test_FIFO/test_fifo|D:/FPGA/test_FIFO/test_fifo/fifo_module.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/FPGA/test_FIFO/test_fifo
+Z7 tCvgOpt 0
+vtest_fifo
+R1
+!i10b 1
+!s100 >IPCDcWjL^_V]co:4DUT50
+INzYj>jm:>7SUHCfL^@DYF3
+R2
+R0
+Z8 w1537956632
+8D:/FPGA/test_FIFO/test_fifo/test_fifo.v
+FD:/FPGA/test_FIFO/test_fifo/test_fifo.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/test_FIFO/test_fifo/test_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/test_FIFO/test_fifo|D:/FPGA/test_FIFO/test_fifo/test_fifo.v|
+!i113 1
+R5
+R6
+R7
+vtestbench
+!s110 1537956639
+!i10b 1
+!s100 4G7Gh]mj5aSn6;2zd83Ji0
+IW;alT`F=<dFaY<CPW:l4=0
+R2
+R0
+R8
+8D:/FPGA/test_FIFO/test_fifo/testbench.v
+FD:/FPGA/test_FIFO/test_fifo/testbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/test_FIFO/test_fifo/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGA/test_FIFO/test_fifo|D:/FPGA/test_FIFO/test_fifo/testbench.v|
+!i113 1
+R5
+R6
+R7
